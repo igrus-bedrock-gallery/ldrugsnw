@@ -1,6 +1,0 @@
-boto3
-Pillow
-
-
-pip install boto3 &&
-pip isntall Pillow
