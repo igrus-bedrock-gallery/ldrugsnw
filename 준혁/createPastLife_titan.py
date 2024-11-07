@@ -55,7 +55,21 @@ def main():
 
     model_id = 'amazon.titan-image-generator-v2:0'
     
-    professions = ["writer", "painter","scholar", "farmer", "musician", "traveler", "king", "queen"]
+    professions = ["writer", "painter","scholar", "farmer", "musician", "traveler", "king", "queen", 
+                   "emperor","Town Crier", "Rat Catcher", "Lamp Lighter", "Phrenologist", "Knocker-Up", 
+                   "Cartographer", "Lamplighter", "Cooper", "Blacksmith", "Telegraph Operator", 
+                   "Ice Cutter", "Leech Collector", "Scribe", "Cobbler", "Gong Farmer", "Alchemist", 
+                   "Water Carrier", "Lector", "Tanner", "Miller", "Ragpicker", "Thatcher", "Haberdasher", 
+                   "Perfumier", "Silversmith", "Fletcher", "Scrivener", "Wainwright", "Swordsmith", 
+                   "Barber-Surgeon", "Charcoal Burner", "Oyster Shucker", "Powder Monkey", "Chimney Sweep", 
+                   "Wheelwright", "Bowyer", "Cordwainer", "Farrier", "Saddler", "Dyer", "Shoemaker", 
+                   "Mudlark", "Fishwife", "Spindle Whorl", "Glassblower", "Lacemaker", "Drover", 
+                   "Milkmaid", "Usher", "Basket Weaver", "Salt Boiler", "Tinker", "Ship Chandler", 
+                   "Town Balladeer", "Musketeer", "Sawyer", "Ploughman", "Scullery Maid", 
+                   "Wattle-and-Dauber", "Undertaker", "Fuller", "Ropemaker", "Crofter", 
+                   "Quarryman", "Brewster", "Alewife", "Parish Beadle", "Match Girl", 
+                   "Collier", "Ostler", "Pannier Man", "Pewterer"]
+    
     eras = ["ancient times",  "early modern period"]
     ethnicities = ["diverse", "cultural blend", "heritage-rich", "white", "yellow", "black"]
 
