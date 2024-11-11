@@ -60,15 +60,13 @@ def main():
                    "Cartographer", "Lamplighter", "Cooper", "Blacksmith", "Telegraph Operator", 
                    "Ice Cutter", "Leech Collector", "Scribe", "Cobbler", "Gong Farmer", "Alchemist", 
                    "Water Carrier", "Lector", "Tanner", "Miller", "Ragpicker", "Thatcher", "Haberdasher", 
-                   "Perfumier", "Silversmith", "Fletcher", "Scrivener", "Wainwright", "Swordsmith", 
-                   "Barber-Surgeon", "Charcoal Burner", "Oyster Shucker", "Powder Monkey", "Chimney Sweep", 
-                   "Wheelwright", "Bowyer", "Cordwainer", "Farrier", "Saddler", "Dyer", "Shoemaker", 
-                   "Mudlark", "Fishwife", "Spindle Whorl", "Glassblower", "Lacemaker", "Drover", 
-                   "Milkmaid", "Usher", "Basket Weaver", "Salt Boiler", "Tinker", "Ship Chandler", 
-                   "Town Balladeer", "Musketeer", "Sawyer", "Ploughman", "Scullery Maid", 
-                   "Wattle-and-Dauber", "Undertaker", "Fuller", "Ropemaker", "Crofter", 
-                   "Quarryman", "Brewster", "Alewife", "Parish Beadle", "Match Girl", 
-                   "Collier", "Ostler", "Pannier Man", "Pewterer"]
+                   "Perfumier", "Silversmith", "Scrivener", "Wainwright",
+                   "Charcoal Burner", "Oyster Shucker",
+                   "glassblower", "spindle whorl", "fishwife", "mudlark", "shoemaker", "dyer", 
+                   "saddler", "Farrier", "Cordwainer", "Wheelwright", "Oyster Shucker", "Chimney Sweep"
+                   "Lacemaker", "Drover", "Milkmaid", "Usher", "Basket Weaver", "Salt Boiler", "Tinker", "Ship Chandler", "Town Balladeer",
+                   "Ploughman", "Scullery Maid", "Wattle-and-Dauber", "Fuller", "Ropemaker", "Crofter", "Quarryman", 
+                   "Brewster", "Alewife", "Parish Beadle", "Match Girl", "Collier", "Ostler", "Pannier Man", "Pewterer"]
     
     eras = ["ancient times",  "early modern period"]
     ethnicities = ["diverse", "cultural blend", "heritage-rich", "white", "yellow", "black"]
